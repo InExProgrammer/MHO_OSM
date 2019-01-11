@@ -1,0 +1,40 @@
+C:\Users\Danilo\Documents\Visual Studio 2005\Projects\Office Supply Monitoring\Office Supply Monitoring\bin\Debug\Office Supply Monitoring.exe
+C:\Users\Danilo\Documents\Visual Studio 2005\Projects\Office Supply Monitoring\Office Supply Monitoring\bin\Debug\Office Supply Monitoring.pdb
+C:\Users\Danilo\Documents\Visual Studio 2005\Projects\Office Supply Monitoring\Office Supply Monitoring\bin\Debug\Office Supply Monitoring.xml
+C:\Users\Danilo\Documents\Visual Studio 2005\Projects\Office Supply Monitoring\Office Supply Monitoring\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Danilo\Documents\Visual Studio 2005\Projects\Office Supply Monitoring\Office Supply Monitoring\obj\Debug\Office_Supply_Monitoring.frmStocks.resources
+C:\Users\Danilo\Documents\Visual Studio 2005\Projects\Office Supply Monitoring\Office Supply Monitoring\obj\Debug\Office_Supply_Monitoring.Resources.resources
+C:\Users\Danilo\Documents\Visual Studio 2005\Projects\Office Supply Monitoring\Office Supply Monitoring\obj\Debug\Office Supply Monitoring.vbproj.GenerateResource.Cache
+C:\Users\Danilo\Documents\Visual Studio 2005\Projects\Office Supply Monitoring\Office Supply Monitoring\obj\Debug\Office Supply Monitoring.exe
+C:\Users\Danilo\Documents\Visual Studio 2005\Projects\Office Supply Monitoring\Office Supply Monitoring\obj\Debug\Office Supply Monitoring.xml
+C:\Users\Danilo\Documents\Visual Studio 2005\Projects\Office Supply Monitoring\Office Supply Monitoring\obj\Debug\Office Supply Monitoring.pdb
+C:\Users\Danilo\Desktop\Office Supply Monitoring\Office Supply Monitoring\obj\Debug\Office Supply Monitoring.exe
+C:\Users\Danilo\Desktop\Office Supply Monitoring\Office Supply Monitoring\obj\Debug\Office Supply Monitoring.xml
+C:\Users\Danilo\Desktop\Office Supply Monitoring\Office Supply Monitoring\obj\Debug\Office Supply Monitoring.pdb
+C:\Users\Danilo\Desktop\Office Supply Monitoring\Office Supply Monitoring\bin\Debug\Office Supply Monitoring.exe
+C:\Users\Danilo\Desktop\Office Supply Monitoring\Office Supply Monitoring\bin\Debug\Office Supply Monitoring.pdb
+C:\Users\Danilo\Desktop\Office Supply Monitoring\Office Supply Monitoring\bin\Debug\Office Supply Monitoring.xml
+C:\Users\Danilo\Desktop\Office Supply Monitoring\Office Supply Monitoring\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Danilo\Desktop\Office Supply Monitoring\Office Supply Monitoring\obj\Debug\Office_Supply_Monitoring.frmStocks.resources
+C:\Users\Danilo\Desktop\Office Supply Monitoring\Office Supply Monitoring\obj\Debug\Office_Supply_Monitoring.Resources.resources
+C:\Users\Danilo\Desktop\Office Supply Monitoring\Office Supply Monitoring\obj\Debug\Office Supply Monitoring.vbproj.GenerateResource.Cache
+C:\Users\Danilo\Desktop\Office Supply Monitoring\Office Supply Monitoring\obj\Debug\Office_Supply_Monitoring.frmTransaction.resources
+C:\Users\Danilo\Desktop\Office Supply Monitoring\Office Supply Monitoring\obj\Debug\Office_Supply_Monitoring.frmLogIn.resources
+C:\Users\Danilo\Desktop\Office Supply Monitoring\Office Supply Monitoring\obj\Debug\Office_Supply_Monitoring.frmChangePASSWORDS.resources
+C:\Users\Danilo\Desktop\Office Supply Monitoring\Office Supply Monitoring\obj\Debug\Office_Supply_Monitoring.frmReports.resources
+C:\Users\Danilo\Desktop\Office Supply Monitoring\Office Supply Monitoring\bin\Debug\Office Supply Monitoring.exe.config
+\\TDC\Systems & Databases\MHO System\Office Supply Monitoring\Office Supply Monitoring\bin\Debug\Office Supply Monitoring.exe.config
+\\TDC\Systems & Databases\MHO System\Office Supply Monitoring\Office Supply Monitoring\obj\Debug\Office Supply Monitoring.exe
+\\TDC\Systems & Databases\MHO System\Office Supply Monitoring\Office Supply Monitoring\obj\Debug\Office Supply Monitoring.xml
+\\TDC\Systems & Databases\MHO System\Office Supply Monitoring\Office Supply Monitoring\obj\Debug\Office Supply Monitoring.pdb
+\\TDC\Systems & Databases\MHO System\Office Supply Monitoring\Office Supply Monitoring\bin\Debug\Office Supply Monitoring.exe
+\\TDC\Systems & Databases\MHO System\Office Supply Monitoring\Office Supply Monitoring\bin\Debug\Office Supply Monitoring.pdb
+\\TDC\Systems & Databases\MHO System\Office Supply Monitoring\Office Supply Monitoring\bin\Debug\Office Supply Monitoring.xml
+\\TDC\Systems & Databases\MHO System\Office Supply Monitoring\Office Supply Monitoring\obj\Debug\ResolveAssemblyReference.cache
+\\TDC\Systems & Databases\MHO System\Office Supply Monitoring\Office Supply Monitoring\obj\Debug\Office_Supply_Monitoring.frmChangePASSWORDS.resources
+\\TDC\Systems & Databases\MHO System\Office Supply Monitoring\Office Supply Monitoring\obj\Debug\Office_Supply_Monitoring.frmLogIn.resources
+\\TDC\Systems & Databases\MHO System\Office Supply Monitoring\Office Supply Monitoring\obj\Debug\Office_Supply_Monitoring.frmReports.resources
+\\TDC\Systems & Databases\MHO System\Office Supply Monitoring\Office Supply Monitoring\obj\Debug\Office_Supply_Monitoring.frmStocks.resources
+\\TDC\Systems & Databases\MHO System\Office Supply Monitoring\Office Supply Monitoring\obj\Debug\Office_Supply_Monitoring.frmTransaction.resources
+\\TDC\Systems & Databases\MHO System\Office Supply Monitoring\Office Supply Monitoring\obj\Debug\Office_Supply_Monitoring.Resources.resources
+\\TDC\Systems & Databases\MHO System\Office Supply Monitoring\Office Supply Monitoring\obj\Debug\Office Supply Monitoring.vbproj.GenerateResource.Cache
